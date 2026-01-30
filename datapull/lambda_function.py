@@ -9,7 +9,7 @@ s3_client = boto3.client("s3")
 LOCAL_FILE_SYS = "/tmp"
 S3_BUCKET = "apipull"  # please replace with your bucket name
 CHUNK_SIZE = 10000  # determined based on API, memory constraints, experimentation
-
+#firsttrail
 
 
 
